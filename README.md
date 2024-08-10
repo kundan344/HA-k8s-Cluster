@@ -1,6 +1,5 @@
 # HA-k8s-Cluster
 
-# HA K8 Cluster By DevOps Shack
 
 To set up a highly available Kubernetes cluster with two master nodes and three worker nodes without using a cloud load balancer, you can use a virtual machine to act as a load balancer for the API server. Here are the detailed steps for setting up such a cluster:
 
